@@ -16,7 +16,7 @@ Requirements
 
 Installation
 Frontend
-1. Clone the repository: git clone https://github.com/your-username/gallery-app.git
+1. Clone the repository: git clone https://github.com/simplyade/gallery-app.git
 2. Navigate to the frontend directory: cd gallery-app/frontend
 3. Install dependencies: npm install
 4. Start the development server: npm start
